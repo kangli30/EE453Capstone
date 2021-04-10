@@ -92,6 +92,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SMBOXIWI
 
 [Document4]
+DocumentPath=TEST.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TUPUDQVI
+
+[Document5]
 DocumentPath=DrivePowerModule.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAUYDOVS
 
-[Document5]
+[Document6]
 DocumentPath=TI_DSP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDYHQLLL
 
-[Document6]
+[Document7]
 DocumentPath=ee453_pcb_yourname.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFVLFNGU
 
-[Document7]
+[Document8]
 DocumentPath=ee_453_yourname.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document8]
+[Document9]
 DocumentPath=ee_453_yourname.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
