@@ -211,7 +211,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GBHJRQXP
 
 [Document11]
-DocumentPath=Sheet2.SchDoc
+DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
