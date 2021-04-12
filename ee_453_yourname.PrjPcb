@@ -143,23 +143,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PAUYDOVS
 
 [Document7]
-DocumentPath=Sensors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XDPJSRCT
-
-[Document8]
 DocumentPath=ee453_pcb_yourname.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFVLFNGU
 
-[Document9]
+[Document8]
 DocumentPath=TI_DSP_OLD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,9 +174,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QDYHQLLL
+DocumentUniqueId=WSCRWZXK
 
-[Document10]
+[Document9]
 DocumentPath=ee_453_yourname.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document11]
+[Document10]
 DocumentPath=ee_453_yourname.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,9 +208,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MPRJBCLL
+DocumentUniqueId=GBHJRQXP
 
-[Document9]
+[Document11]
 DocumentPath=Sheet2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NLTJMNXU
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
