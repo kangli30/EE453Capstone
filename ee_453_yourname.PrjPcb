@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZJJQYMEK
 
 [Document2]
-DocumentPath=BoostStage.SchDoc
+DocumentPath=Overall_System.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZZFCHUCQ
+DocumentUniqueId=NZGECISM
 
 [Document3]
 DocumentPath=PowerSupply.SchDoc
@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SMBOXIWI
 
 [Document4]
-DocumentPath=DrivePowerModule.SchDoc
+DocumentPath=BoostStage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PAUYDOVS
+DocumentUniqueId=ZZFCHUCQ
 
 [Document5]
 DocumentPath=TI_DSP.SchDoc
@@ -123,9 +123,43 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QDYHQLLL
+DocumentUniqueId=PHDUKQBD
 
 [Document6]
+DocumentPath=DrivePowerModule.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PAUYDOVS
+
+[Document7]
+DocumentPath=Sensors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XDPJSRCT
+
+[Document8]
 DocumentPath=ee453_pcb_yourname.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +176,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFVLFNGU
 
-[Document7]
+[Document9]
+DocumentPath=TI_DSP_OLD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QDYHQLLL
+
+[Document10]
 DocumentPath=ee_453_yourname.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document8]
+[Document11]
 DocumentPath=ee_453_yourname.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
