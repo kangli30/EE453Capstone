@@ -228,23 +228,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NLTJMNXU
 
 [Document12]
-DocumentPath=..\..\SensorSystem.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BFLPRWPK
-
-[Document13]
 DocumentPath=ee_453_yourname.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=Sheet2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
